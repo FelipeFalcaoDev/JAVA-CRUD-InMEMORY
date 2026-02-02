@@ -40,7 +40,7 @@ Listas para armazenamento em memória
 
 Como Executar
 
-🔗 Clone o Repositório
+## 🔗 Clone o Repositório
 git clone https://github.com/FelipeFalcaoDev/JAVA-CRUD-InMEMORY.git
 
 Abra no seu IDE Java favorito (Eclipse, IntelliJ, VSCode).
