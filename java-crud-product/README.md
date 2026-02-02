@@ -40,10 +40,8 @@ Listas para armazenamento em memória
 
 Como Executar
 
-Clone o repositório:
-
-git clone <URL_DO_REPO>
-
+🔗 Clone o Repositório
+git clone https://github.com/FelipeFalcaoDev/JAVA-CRUD-InMEMORY.git
 
 Abra no seu IDE Java favorito (Eclipse, IntelliJ, VSCode).
 
@@ -116,10 +114,8 @@ Lists for in-memory storage
 
 How to Run
 
-Clone the repository:
-
-git clone <REPO_URL>
-
+## 🔗 Clone the Repository
+git clone https://github.com/FelipeFalcaoDev/JAVA-CRUD-InMEMORY.git
 
 Open it in your preferred Java IDE (Eclipse, IntelliJ, VSCode).
 
